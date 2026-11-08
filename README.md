@@ -1,12 +1,12 @@
 # US Legal & Compliance Jobs
 
-Open legal and compliance roles at US employers: 123 legal and compliance roles at 88 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=legal).** Last updated 2026-11-08.
+Open legal and compliance roles at US employers: 124 legal and compliance roles at 89 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=legal).** Last updated 2026-11-08.
 
-All 123 are listed below. Browse the newest on [warmada.com/jobs/legal](https://warmada.com/jobs/legal?utm_source=github&utm_medium=list&utm_campaign=legal).
+All 124 are listed below. Browse the newest on [warmada.com/jobs/legal](https://warmada.com/jobs/legal?utm_source=github&utm_medium=list&utm_campaign=legal).
 
-**By city:** New York (18) · San Francisco (30) · Seattle (2) · Boston (2) · Austin (3) · Chicago (3) · Los Angeles (2) · Denver (2) · Washington, DC (7) · Atlanta (1) · Dallas (1) · Philadelphia (1) · San Diego (3) · Remote (22) · Elsewhere in the US (26)
+**By city:** New York (18) · San Francisco (30) · Seattle (2) · Boston (2) · Austin (3) · Chicago (3) · Los Angeles (2) · Denver (2) · Washington, DC (7) · Atlanta (1) · Dallas (1) · Philadelphia (1) · San Diego (3) · Remote (23) · Elsewhere in the US (26)
 
-**How it is built.** Warmada reads the public job boards of companies on Greenhouse, Ashby and Lever every day and keeps the postings that name a US location. A role is on this list when keywords in its title say it is a legal and compliance role, so one can land on the wrong list. A role in several cities is listed once, under the first of them. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
+**How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when keywords in its title say it is a legal and compliance role, so one can land on the wrong list. A role in several cities is listed once, under the first of them. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
 A bad listing? Email hello@warmada.com with the link.
 
@@ -150,7 +150,7 @@ A bad listing? Email hello@warmada.com with the link.
 | [iambic.ai](https://warmada.com/companies/iambic-ai?utm_source=github&utm_medium=list&utm_campaign=legal) | Director, IP Counsel | San Diego HQ | Nov 2 | [Apply](https://jobs.ashbyhq.com/iambic-therapeutics/a3b2fcd5-f927-47eb-8808-2879310d1273) · [Find the hiring manager](https://warmada.com/job/iambic-ai-director-ip-counsel-32f0dba7-fb77-4c73-aea0-3ca30ad454fc?utm_source=github&utm_medium=list&utm_campaign=legal) |
 | [iambic.ai](https://warmada.com/companies/iambic-ai?utm_source=github&utm_medium=list&utm_campaign=legal) | Corporate Counsel, Commercial | San Diego HQ | Nov 2 | [Apply](https://jobs.ashbyhq.com/iambic-therapeutics/537633e4-4b04-4376-b91a-6cdd020b4735) · [Find the hiring manager](https://warmada.com/job/iambic-ai-corporate-counsel-commercial-7ec182d4-38fb-4b28-99c5-2d1be0b457ef?utm_source=github&utm_medium=list&utm_campaign=legal) |
 
-## Remote (22)
+## Remote (23)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -166,6 +166,7 @@ A bad listing? Email hello@warmada.com with the link.
 | [Collibra](https://warmada.com/companies/collibra?utm_source=github&utm_medium=list&utm_campaign=legal) | Commercial Counsel | Remote, USA | Nov 3 | [Apply](https://www.collibra.com/us/en/company/careers/job-listing/?gh_jid=8346638) · [Find the hiring manager](https://warmada.com/job/collibra-commercial-counsel-6d5442a1-65d0-490f-94fb-dd6630e4d444?utm_source=github&utm_medium=list&utm_campaign=legal) |
 | [Dave](https://warmada.com/companies/dave?utm_source=github&utm_medium=list&utm_campaign=legal) | Commercial Legal Director | United States | Nov 2 | [Apply](https://jobs.ashbyhq.com/dave/cac6e779-ce6a-4714-ad23-4ec0f10ab7cc) · [Find the hiring manager](https://warmada.com/job/dave-commercial-legal-director-67af252f-889c-4934-baf2-a58e9d632fc9?utm_source=github&utm_medium=list&utm_campaign=legal) |
 | RapidSOS | Legal Operations &amp; Paralegal Specialist | Remote - United States | Nov 2 | [Apply](https://job-boards.greenhouse.io/rapidsos/jobs/5279506007) · [Find the hiring manager](https://warmada.com/job/rapidsos-legal-operations-and-paralegal-specialist-a71349f7-524d-4add-b8b0-d8d10788da02?utm_source=github&utm_medium=list&utm_campaign=legal) |
+| getsphere.com | International Indirect Tax Compliance Specialist (VAT/GST) | United States | Nov 2 | [Apply](https://jobs.ashbyhq.com/sphere/764fbb87-b987-4007-8af8-bb34199c6f46) · [Find the hiring manager](https://warmada.com/job/getsphere-com-international-indirect-tax-compliance-specialist-vat-gst-db49f583-72f3-426f-99e6-cf1328592d58?utm_source=github&utm_medium=list&utm_campaign=legal) |
 | [Dave](https://warmada.com/companies/dave?utm_source=github&utm_medium=list&utm_campaign=legal) | Product and Regulatory Legal Director | United States | Nov 2 | [Apply](https://jobs.ashbyhq.com/dave/500730ef-6354-457d-969a-0e2375129edf) · [Find the hiring manager](https://warmada.com/job/dave-product-and-regulatory-legal-director-84b4bf9b-80ed-4bb8-91d0-757cd6ab2242?utm_source=github&utm_medium=list&utm_campaign=legal) |
 | [Column](https://warmada.com/companies/column?utm_source=github&utm_medium=list&utm_campaign=legal) | Compliance Analyst | Remote, USA | Oct 30 | [Apply](https://jobs.ashbyhq.com/column/fea359b9-5ac3-4812-a1f8-88fd6031cb89) · [Find the hiring manager](https://warmada.com/job/column-compliance-analyst-ba3a7614-8384-46f5-bff9-93cf0253fb05?utm_source=github&utm_medium=list&utm_campaign=legal) |
 | [Reddit](https://warmada.com/companies/reddit?utm_source=github&utm_medium=list&utm_campaign=legal) | Associate General Counsel, Ads Product | Remote - United States | Oct 30 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/8148089) · [Find the hiring manager](https://warmada.com/job/reddit-associate-general-counsel-ads-product-94e976ef-a3a8-4bc1-a190-0dda15d79e66?utm_source=github&utm_medium=list&utm_campaign=legal) |
