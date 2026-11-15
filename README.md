@@ -1,6 +1,6 @@
 # US Legal & Compliance Jobs
 
-Open legal and compliance roles at US employers: 117 legal and compliance roles at 78 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=legal).** Last updated 2026-11-14.
+Open legal and compliance roles at US employers: 117 legal and compliance roles at 78 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=legal).** Last updated 2026-11-15.
 
 All 117 are listed below. Browse the newest on [warmada.com/jobs/legal](https://warmada.com/jobs/legal?utm_source=github&utm_medium=list&utm_campaign=legal).
 
