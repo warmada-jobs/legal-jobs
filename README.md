@@ -1,16 +1,16 @@
 # US Legal & Compliance Jobs
 
-Open legal and compliance roles at US employers: 107 legal and compliance roles at 71 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=legal).** Last updated 2026-11-22.
+Open legal and compliance roles at US employers: 101 legal and compliance roles at 68 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=legal).** Last updated 2026-11-23.
 
-All 107 are listed below. Browse the newest on [warmada.com/jobs/legal](https://warmada.com/jobs/legal?utm_source=github&utm_medium=list&utm_campaign=legal).
+All 101 are listed below. Browse the newest on [warmada.com/jobs/legal](https://warmada.com/jobs/legal?utm_source=github&utm_medium=list&utm_campaign=legal).
 
-**By city:** New York (27) · San Francisco (20) · Austin (1) · Chicago (4) · Los Angeles (2) · Denver (2) · Washington, DC (2) · Houston (1) · Remote (22) · Elsewhere in the US (26)
+**By city:** New York (26) · San Francisco (18) · Austin (1) · Chicago (4) · Los Angeles (3) · Denver (1) · Washington, DC (2) · Houston (2) · Remote (19) · Elsewhere in the US (25)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when keywords in its title say it is a legal and compliance role, so one can land on the wrong list. A role in several cities is listed once, under the first of them. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
 A bad listing? Email hello@warmada.com with the link.
 
-## New York (27)
+## New York (26)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -40,9 +40,8 @@ A bad listing? Email hello@warmada.com with the link.
 | [Hex](https://warmada.com/companies/hex?utm_source=github&utm_medium=list&utm_campaign=legal) | Commercial Counsel | New York | Nov 10 | [Apply](https://jobs.ashbyhq.com/hex/30ceaede-a4dd-4cef-ae33-837fd0aba8cd) · [Find the hiring manager](https://warmada.com/job/hex-commercial-counsel-2dd89273-b308-4916-87b2-55e994ef09c9?utm_source=github&utm_medium=list&utm_campaign=legal) |
 | [Anthropic](https://warmada.com/companies/anthropic?utm_source=github&utm_medium=list&utm_campaign=legal) | Security Risk &amp; Compliance, SOX IT | San Francisco, CA \| Seattle, WA \| New York City, NY \| Washington, DC | Nov 10 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5477464008) · [Find the hiring manager](https://warmada.com/job/anthropic-security-risk-and-compliance-sox-it-48812107-e635-428b-a34f-b09f69cb426d?utm_source=github&utm_medium=list&utm_campaign=legal) |
 | [EliseAI](https://warmada.com/companies/eliseai?utm_source=github&utm_medium=list&utm_campaign=legal) | Legal Counsel | New York City | Nov 9 | [Apply](https://jobs.ashbyhq.com/EliseAI/29cf3652-b6ce-45d2-9de6-d2ad7b9e4dd9) · [Find the hiring manager](https://warmada.com/job/eliseai-legal-counsel-49a2065a-1628-4f6d-a122-4a9f58cdb9bd?utm_source=github&utm_medium=list&utm_campaign=legal) |
-| [Ramp](https://warmada.com/companies/ramp?utm_source=github&utm_medium=list&utm_campaign=legal) | Legal &amp; Privacy Operations Associate | New York, NY (HQ) | Nov 9 | [Apply](https://jobs.ashbyhq.com/ramp/31bd9e9e-102f-4051-abc1-22cdd7d9617a) · [Find the hiring manager](https://warmada.com/job/ramp-legal-and-privacy-operations-associate-e9417417-3331-4c4c-8ac8-35c381ed2645?utm_source=github&utm_medium=list&utm_campaign=legal) |
 
-## San Francisco (20)
+## San Francisco (18)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -64,8 +63,6 @@ A bad listing? Email hello@warmada.com with the link.
 | [Plaid](https://warmada.com/companies/plaid?utm_source=github&utm_medium=list&utm_campaign=legal) | Corporate Counsel, Governance and Finance | San Francisco HQ | Nov 10 | [Apply](https://jobs.ashbyhq.com/plaid/3f324f37-afde-40ba-88e0-2bf91cba1968) · [Find the hiring manager](https://warmada.com/job/plaid-corporate-counsel-governance-and-finance-cf129612-502f-416d-a916-dcc310fe07d4?utm_source=github&utm_medium=list&utm_campaign=legal) |
 | [OpenAI](https://warmada.com/companies/openai?utm_source=github&utm_medium=list&utm_campaign=legal) | Subject Matter Expert, Legal | San Francisco | Nov 10 | [Apply](https://jobs.ashbyhq.com/openai/bb4e2d58-d481-4e81-ac69-0d99bbf5808e) · [Find the hiring manager](https://warmada.com/job/openai-subject-matter-expert-legal-77bd0574-5943-4440-a073-c004416f4ad1?utm_source=github&utm_medium=list&utm_campaign=legal) |
 | [Writer](https://warmada.com/companies/writer?utm_source=github&utm_medium=list&utm_campaign=legal) | Commercial counsel | San Francisco, CA | Nov 10 | [Apply](https://jobs.ashbyhq.com/WRITER/9e384a3c-70f9-4cdc-957a-ec6f27cd7901) · [Find the hiring manager](https://warmada.com/job/writer-commercial-counsel-cc98f002-e846-430b-a21a-54acfc23d453?utm_source=github&utm_medium=list&utm_campaign=legal) |
-| [OpenAI](https://warmada.com/companies/openai?utm_source=github&utm_medium=list&utm_campaign=legal) | Senior Counsel, Litigation (Safety) | San Francisco | Nov 9 | [Apply](https://jobs.ashbyhq.com/openai/1a607736-8631-4fd9-a1a9-f790318d12d2) · [Find the hiring manager](https://warmada.com/job/openai-senior-counsel-litigation-safety-bee11835-9fd4-467c-815a-5d75cbcc2ca4?utm_source=github&utm_medium=list&utm_campaign=legal) |
-| [OpenAI](https://warmada.com/companies/openai?utm_source=github&utm_medium=list&utm_campaign=legal) | Senior Counsel, Commercial (Health and Life Sciences) | San Francisco | Nov 9 | [Apply](https://jobs.ashbyhq.com/openai/167e2ee5-7280-4153-9490-5e7a8372e1dc) · [Find the hiring manager](https://warmada.com/job/openai-senior-counsel-commercial-health-and-life-sciences-44954eea-29d7-4cbf-8e06-1e9248f74013?utm_source=github&utm_medium=list&utm_campaign=legal) |
 
 ## Austin (1)
 
@@ -82,19 +79,19 @@ A bad listing? Email hello@warmada.com with the link.
 | [Robinhood](https://warmada.com/companies/robinhood?utm_source=github&utm_medium=list&utm_campaign=legal) | Futures Compliance Senior Specialist | Chicago, IL | Nov 13 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8367410?t=gh_src=&gh_jid=8367410) · [Find the hiring manager](https://warmada.com/job/robinhood-futures-compliance-senior-specialist-0e3447d3-3289-4bb8-bdbd-a04456487681?utm_source=github&utm_medium=list&utm_campaign=legal) |
 | [Enova International](https://warmada.com/companies/enova-international?utm_source=github&utm_medium=list&utm_campaign=legal) | Business Compliance Sr. Analyst | Chicago, IL | Nov 10 | [Apply](https://job-boards.greenhouse.io/enova/jobs/8374651) · [Find the hiring manager](https://warmada.com/job/enova-international-business-compliance-sr-analyst-e520a21d-5c86-40d6-b116-948cb6f9c92e?utm_source=github&utm_medium=list&utm_campaign=legal) |
 
-## Los Angeles (2)
+## Los Angeles (3)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
+| [Hadrian Automation](https://warmada.com/companies/hadrian-automation?utm_source=github&utm_medium=list&utm_campaign=legal) | Counsel, Intellectual Property | Los Angeles, CA | Nov 22 | [Apply](https://jobs.ashbyhq.com/hadrian-automation/8d300218-a859-4db0-ae9e-092d0b722a5d) · [Find the hiring manager](https://warmada.com/job/hadrian-automation-counsel-intellectual-property-9cb4b219-bc38-4e7f-acf9-21d560aa7c62?utm_source=github&utm_medium=list&utm_campaign=legal) |
 | [Monks](https://warmada.com/companies/monks?utm_source=github&utm_medium=list&utm_campaign=legal) | Senior Legal Counsel | Los Angeles | Nov 12 | [Apply](https://www.monks.com/careers/6250679004/job?gh_jid=6250679004) · [Find the hiring manager](https://warmada.com/job/monks-senior-legal-counsel-644a381b-9292-42c7-a424-51dc518890fa?utm_source=github&utm_medium=list&utm_campaign=legal) |
 | [Hadrian Automation](https://warmada.com/companies/hadrian-automation?utm_source=github&utm_medium=list&utm_campaign=legal) | Contracts Manager | Los Angeles, CA | Nov 10 | [Apply](https://jobs.ashbyhq.com/hadrian-automation/217911aa-9f92-47d3-9061-bf06077e665a) · [Find the hiring manager](https://warmada.com/job/hadrian-automation-contracts-manager-57e92189-f481-4c0d-8181-49b03b2db6a9?utm_source=github&utm_medium=list&utm_campaign=legal) |
 
-## Denver (2)
+## Denver (1)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
 | [Intellistack](https://warmada.com/companies/intellistack?utm_source=github&utm_medium=list&utm_campaign=legal) | VP, Corporate Counsel | Denver, CO | Nov 16 | [Apply](https://jobs.ashbyhq.com/Intellistack/ea1eb785-66ac-466a-8e27-5ae627aff3e0) · [Find the hiring manager](https://warmada.com/job/intellistack-vp-corporate-counsel-050d47e0-36c1-4a55-9913-d05abcbb2fd4?utm_source=github&utm_medium=list&utm_campaign=legal) |
-| [Fivetran](https://warmada.com/companies/fivetran?utm_source=github&utm_medium=list&utm_campaign=legal) | Senior Commercial Counsel | Denver, Colorado, United States, AMER | Nov 9 | [Apply](https://www.fivetran.com/careers/job?gh_jid=8198955003) · [Find the hiring manager](https://warmada.com/job/fivetran-senior-commercial-counsel-35c51cef-49c7-4f15-b2fd-4f867c721ce9?utm_source=github&utm_medium=list&utm_campaign=legal) |
 
 ## Washington, DC (2)
 
@@ -103,13 +100,14 @@ A bad listing? Email hello@warmada.com with the link.
 | [Palantir](https://warmada.com/companies/palantir?utm_source=github&utm_medium=list&utm_campaign=legal) | Site Reliability Operations Analyst - Legal | Washington, D.C. | Nov 19 | [Apply](https://jobs.lever.co/palantir/4a9e0649-a925-4b25-914d-1eea058a3e01) · [Find the hiring manager](https://warmada.com/job/palantir-site-reliability-operations-analyst-legal-39f15d5e-1622-4702-a5f0-04f0713f47c0?utm_source=github&utm_medium=list&utm_campaign=legal) |
 | [Hadrian Automation](https://warmada.com/companies/hadrian-automation?utm_source=github&utm_medium=list&utm_campaign=legal) | Contracts Manager | Washington, DC | Nov 13 | [Apply](https://jobs.ashbyhq.com/hadrian-automation/d98ff7e9-166c-44d3-addb-e4ea5f19c060) · [Find the hiring manager](https://warmada.com/job/hadrian-automation-contracts-manager-b0e26567-ff40-4836-9aec-4dbbee4fcc8a?utm_source=github&utm_medium=list&utm_campaign=legal) |
 
-## Houston (1)
+## Houston (2)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
 | [Lyft](https://warmada.com/companies/lyft?utm_source=github&utm_medium=list&utm_campaign=legal) | Counsel, Patents &amp; IP | Houston, TX | Nov 13 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8943182002?gh_jid=8943182002) · [Find the hiring manager](https://warmada.com/job/lyft-counsel-patents-and-ip-f3d929fd-9e7a-48a7-a36e-2cc08c4830ef?utm_source=github&utm_medium=list&utm_campaign=legal) |
+| Vaulted Deep | Head of Legal | Houston | Nov 11 | [Apply](https://jobs.ashbyhq.com/vaulted-deep/0f313d34-61a2-46a2-9f43-2f53ac41d6e8) · [Find the hiring manager](https://warmada.com/job/vaulted-deep-head-of-legal-d0a35c57-a246-4859-8d61-4241d7dca12f?utm_source=github&utm_medium=list&utm_campaign=legal) |
 
-## Remote (22)
+## Remote (19)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -132,11 +130,8 @@ A bad listing? Email hello@warmada.com with the link.
 | [LaunchDarkly](https://warmada.com/companies/launchdarkly?utm_source=github&utm_medium=list&utm_campaign=legal) | Security Analyst - Governance, Risk, and Compliance | Remote - US | Nov 10 | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/8039312003) · [Find the hiring manager](https://warmada.com/job/launchdarkly-security-analyst-governance-risk-and-compliance-d3bd7d55-603f-420a-acf2-0fa001af986c?utm_source=github&utm_medium=list&utm_campaign=legal) |
 | [Upstart](https://warmada.com/companies/upstart?utm_source=github&utm_medium=list&utm_campaign=legal) | Senior Legal Counsel, Capital Markets | United States \| Remote | Nov 10 | [Apply](https://careers.upstart.com/jobs?gh_jid=8374084) · [Find the hiring manager](https://warmada.com/job/upstart-senior-legal-counsel-capital-markets-a416a2c3-24cf-4b23-9436-d06e897578c5?utm_source=github&utm_medium=list&utm_campaign=legal) |
 | [Pebl](https://warmada.com/companies/pebl?utm_source=github&utm_medium=list&utm_campaign=legal) | Corporate Compliance Specialist | United States | Nov 10 | [Apply](https://jobs.ashbyhq.com/pebl/eb10993b-b069-4e5d-b0a8-d25781e0b315) · [Find the hiring manager](https://warmada.com/job/pebl-corporate-compliance-specialist-6d7ac881-2efd-43c3-a7f1-0b27e9618b2c?utm_source=github&utm_medium=list&utm_campaign=legal) |
-| [Zscaler](https://warmada.com/companies/zscaler?utm_source=github&utm_medium=list&utm_campaign=legal) | Security Compliance Specialist | Remote - USA | Nov 9 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5239707007) · [Find the hiring manager](https://warmada.com/job/zscaler-security-compliance-specialist-ca69f25e-7d2b-4ec0-ac4d-d5f13c9ea6a9?utm_source=github&utm_medium=list&utm_campaign=legal) |
-| [Everway](https://warmada.com/companies/everway?utm_source=github&utm_medium=list&utm_campaign=legal) | SVP, General Counsel &amp; Company Secretary | Remote, USA | Nov 9 | [Apply](https://job-boards.greenhouse.io/everway/jobs/4727900006) · [Find the hiring manager](https://warmada.com/job/everway-svp-general-counsel-and-company-secretary-d4c84969-4c03-4dde-b620-e03f1a8a984a?utm_source=github&utm_medium=list&utm_campaign=legal) |
-| [OPSWAT](https://warmada.com/companies/opswat?utm_source=github&utm_medium=list&utm_campaign=legal) | Senior Product Counsel | AMER - Remote; Tampa, Florida, United States; Timișoara, Timiș, Romania | Nov 9 | [Apply](https://www.opswat.com/jobs/4752594005?gh_jid=4752594005) · [Find the hiring manager](https://warmada.com/job/opswat-senior-product-counsel-a08c9661-e31a-43a3-8bd1-8c002c01c428?utm_source=github&utm_medium=list&utm_campaign=legal) |
 
-## Elsewhere in the US (26)
+## Elsewhere in the US (25)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -162,7 +157,6 @@ A bad listing? Email hello@warmada.com with the link.
 | [Zscaler](https://warmada.com/companies/zscaler?utm_source=github&utm_medium=list&utm_campaign=legal) | Principal Security &amp; Privacy Compliance Architect | Santa Clara, California, USA | Nov 11 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5292785007) · [Find the hiring manager](https://warmada.com/job/zscaler-principal-security-and-privacy-compliance-architect-674c3457-f762-44e3-9a7c-942e3a6760c8?utm_source=github&utm_medium=list&utm_campaign=legal) |
 | [Astranis](https://warmada.com/companies/astranis?utm_source=github&utm_medium=list&utm_campaign=legal) | Regulatory Policy Analyst | Washington, District of Columbia, United States | Nov 10 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4728716006) · [Find the hiring manager](https://warmada.com/job/astranis-regulatory-policy-analyst-0d01be69-cb43-46c5-b35f-89aa2e4be779?utm_source=github&utm_medium=list&utm_campaign=legal) |
 | [Block](https://warmada.com/companies/block?utm_source=github&utm_medium=list&utm_campaign=legal) | Director, Global Tax Operations, Reporting &amp; Compliance | Bay Area, CA, United States of America | Nov 10 | [Apply](http://block.xyz/careers/jobs/5465891008?gh_jid=5465891008) · [Find the hiring manager](https://warmada.com/job/block-director-global-tax-operations-reporting-and-compliance-36d32dcd-4e7f-40e0-aac5-c0ff69ab196c?utm_source=github&utm_medium=list&utm_campaign=legal) |
-| [Parrish DeVaughn](https://warmada.com/companies/parrish-devaughn?utm_source=github&utm_medium=list&utm_campaign=legal) | Legal Assistant | Oklahoma City, OK | Nov 10 | [Apply](https://job-boards.greenhouse.io/parrishdevaughn/jobs/4487135009) · [Find the hiring manager](https://warmada.com/job/parrish-devaughn-legal-assistant-aee4557e-dd8e-4e89-9afc-bbd9408301c6?utm_source=github&utm_medium=list&utm_campaign=legal) |
+| Parrish DeVaughn | Legal Assistant | Oklahoma City, OK | Nov 10 | [Apply](https://job-boards.greenhouse.io/parrishdevaughn/jobs/4487135009) · [Find the hiring manager](https://warmada.com/job/parrish-devaughn-legal-assistant-aee4557e-dd8e-4e89-9afc-bbd9408301c6?utm_source=github&utm_medium=list&utm_campaign=legal) |
 | OppFi | Compliance Associate – Monitoring &amp; Testing | United States | Nov 9 | [Apply](https://job-boards.greenhouse.io/opploans/jobs/8198257003) · [Find the hiring manager](https://warmada.com/job/oppfi-compliance-associate-monitoring-and-testing-c80f1b70-0a72-4f8f-9b6f-ba9bc6b832c4?utm_source=github&utm_medium=list&utm_campaign=legal) |
 | [Roblox](https://warmada.com/companies/roblox?utm_source=github&utm_medium=list&utm_campaign=legal) | Senior Contracts Manager (Commercial Legal) | San Mateo, CA, United States | Nov 9 | [Apply](https://careers.roblox.com/jobs/8350312?gh_jid=8350312) · [Find the hiring manager](https://warmada.com/job/roblox-senior-contracts-manager-commercial-legal-cbafe75a-72ab-4e34-a5b7-58071da2ef50?utm_source=github&utm_medium=list&utm_campaign=legal) |
-| [Parrish DeVaughn](https://warmada.com/companies/parrish-devaughn?utm_source=github&utm_medium=list&utm_campaign=legal) | Workers' Compensation Attorney | Oklahoma City, OK | Nov 9 | [Apply](https://job-boards.greenhouse.io/parrishdevaughn/jobs/4487176009) · [Find the hiring manager](https://warmada.com/job/parrish-devaughn-workers-compensation-attorney-bca4a201-6dc7-43cb-86a4-a0ea0fc87c6b?utm_source=github&utm_medium=list&utm_campaign=legal) |
